@@ -9,7 +9,6 @@
         <item name="colorOnSecondary">@color/courses_on_secondary</item>
         <item name="colorSurface">@color/courses_surface</item>
         <item name="colorOnSurface">@color/courses_on_surface</item>
-        <item name="colorBackground">@color/courses_background</item>
         <item name="android:colorBackground">@color/courses_background</item>
         <item name="android:windowBackground">@color/courses_background</item>
     </style>
