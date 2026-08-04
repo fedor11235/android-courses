@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Courses" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/courses_primary</item>
+        <item name="colorPrimaryVariant">@color/courses_primary_container</item>
+        <item name="colorOnPrimary">@color/courses_on_primary</item>
+        <item name="colorSecondary">@color/courses_secondary</item>
+        <item name="colorSecondaryVariant">@color/courses_secondary</item>
+        <item name="colorOnSecondary">@color/courses_on_secondary</item>
+        <item name="colorSurface">@color/courses_surface</item>
+        <item name="colorOnSurface">@color/courses_on_surface</item>
+        <item name="colorBackground">@color/courses_background</item>
+        <item name="android:colorBackground">@color/courses_background</item>
+        <item name="android:windowBackground">@color/courses_background</item>
+    </style>
+</resources>

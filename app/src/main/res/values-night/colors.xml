@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="courses_primary">#9DD5E2</color>
+    <color name="courses_on_primary">#08242D</color>
+    <color name="courses_primary_container">#0F3A45</color>
+    <color name="courses_on_primary_container">#D7E9EE</color>
+    <color name="courses_secondary">#F3B37E</color>
+    <color name="courses_on_secondary">#3D200E</color>
+    <color name="courses_background">#121212</color>
+    <color name="courses_on_background">#F0F0F0</color>
+    <color name="courses_surface">#1C1C1C</color>
+    <color name="courses_on_surface">#F0F0F0</color>
+    <color name="courses_card_stroke">#3A3A3A</color>
+    <color name="courses_chip_background">#23343A</color>
+    <color name="course_chip_text">#D7E9EE</color>
+</resources>
